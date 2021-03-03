@@ -9,6 +9,7 @@ if lines[0].startswith('#', 0):
     if (line_count - 1) != 0:
         line_count -= 1
         print("The file has " + str(line_count) + " line(s), apart from the header")
+source_file.close()
 
 '''
 Output#1
