@@ -12,7 +12,7 @@ driver = webdriver.Chrome(PATH)
 # As soon the browser is opened, maximize the window
 driver.maximize_window()
 # Navigate to the following url
-driver.get("https://www.oracle.com/database/technologies/appdev/rest-data-services-downloads.html#license-lightbox")
+driver.get("https://www.att.com/")
 # Wait for 5 seconds
 time.sleep(5)
 # Quit the browser
