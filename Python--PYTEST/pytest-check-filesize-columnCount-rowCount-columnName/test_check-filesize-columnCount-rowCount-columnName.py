@@ -33,22 +33,5 @@ for item in col:
         assert item in result_set.columns
 
 
-'''
-Output:
 
 
-C:\Users\Groot\IdeaProjects\Python\Python--PYTEST\pytest-check-filesize-columnCount-rowCount-columnName>pytest
-================================================================================= test session starts ==================================================================================
-platform win32 -- Python 3.9.2, pytest-6.2.2, py-1.10.0, pluggy-0.13.1
-rootdir: C:\Users\Groot\IdeaProjects\Python\Python--PYTEST\pytest-check-filesize-columnCount-rowCount-columnName
-collected 4 items                                                                                                                                                                       
-
-test_With-Pandas-File-Validation-if-Column-exists.py ....                                                                                                                         [100%]
-
-================================================================================== 4 passed in 4.34s ===================================================================================
-
-C:\Users\Groot\IdeaProjects\Python\Python--PYTEST\pytest-check-filesize-columnCount-rowCount-columnName>
-
-
-
-'''

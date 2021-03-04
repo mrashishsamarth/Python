@@ -15,20 +15,3 @@ finally:
         cursor.close()
     if connection:
         connection.close()
-
-
-"""
-Output looks like the following
-
-+-------+---------+----------+--------+----------+
-|   SID | OWNER   | OBJECT   | TYPE   |   CON_ID |
-|-------+---------+----------+--------+----------|
-|     6 |         | DVSYS    | NONE   |        1 |
-|     6 | SYS     | DUAL     | TABLE  |        1 |
-|     6 | DVSYS   | DV_AUTH$ | TABLE  |        1 |
-|     7 | SYS     | DUAL     | TABLE  |        1 |
-|     7 | SYS     | OBJ$     | TABLE  |        1 |
-|     7 | SYS     | TYPE$    | TABLE  |        1 |
-|     7 | SYS     | UNDO$    | TABLE  |        1 |
-
-"""

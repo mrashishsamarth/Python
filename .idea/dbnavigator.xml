@@ -28,7 +28,20 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="6eab6e9c-6626-4767-afd6-c09d627ebf63">
-      <console name="Oracle19c - HR" type="STANDARD" schema="HR" session="Main" />
+      <console name="Oracle19c - HR" type="STANDARD" schema="HR" session="Main"><![CDATA[select
+    e.COMMISSION_PCT,
+    e.DEPARTMENT_ID,
+    e.EMAIL,
+    e.EMPLOYEE_ID,
+    e.FIRST_NAME,
+    e.HIRE_DATE,
+    e.JOB_ID,
+    e.LAST_NAME,
+    e.MANAGER_ID,
+    e.PHONE_NUMBER,
+    e.SALARY
+from
+    EMPLOYEES e;]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
@@ -36,6 +49,9 @@
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="6eab6e9c-6626-4767-afd6-c09d627ebf63" />
+  </component>
+  <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="6eab6e9c-6626-4767-afd6-c09d627ebf63" dataset="HR.DEPARTMENTS" active-filter-id="" />
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
