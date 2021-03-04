@@ -12,9 +12,12 @@ driver = webdriver.Chrome(PATH)
 # As soon the browser is opened, maximize the window
 driver.maximize_window()
 # Navigate to the following url
-driver.get("https://www.oracle.com/database/technologies/appdev/rest-data-services-downloads.html#license-lightbox")
+driver.get("https://www.att.com/")
 # Lookup element by link text
-search = driver.find_element_by_link_text("Readme")
+search = driver.find_element_by_link_text("Account")
 # Once found, click on the link
 search.click()
+print("clicked on Account resulting in a dropdown list")
+time.sleep(5)
+driver.quit()
 
