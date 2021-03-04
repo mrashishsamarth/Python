@@ -32,6 +32,3 @@ for item in col:
     def test_case_4():
         assert item in result_set.columns
 
-
-
-

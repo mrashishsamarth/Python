@@ -9,14 +9,3 @@ collection = db["flights"]
 pprint.pprint(collection.find_one())
 client.close()
 
-'''
-Without the usage of pprint the output looks like
-{'_id': ObjectId('602f2f86f98ef70670966a03'), 'departureAirport': 'MUC', 'arrivalAirport': 'SFO', 'aircraft': 'Airbus A380', 'distance': 12000, 'intercontinental': True}
-With the usage of pprint the output looks like
-{'_id': ObjectId('602f2f86f98ef70670966a03'),
- 'aircraft': 'Airbus A380',
- 'arrivalAirport': 'SFO',
- 'departureAirport': 'MUC',
- 'distance': 12000,
- 'intercontinental': True}
-'''

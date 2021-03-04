@@ -12,16 +12,3 @@ if lines[0].startswith('#', 0):
         print("The file has " + str(line_count) + " line(s), apart from the header")
 
 source_file.close()
-
-'''
-Output#1
-    File has only Header information
-
-    Process finished with exit code 0
-
-Output#2
-    The file has 12 line(s), apart from the header
-
-    Process finished with exit code 0
-    
-'''
