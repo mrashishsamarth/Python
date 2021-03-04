@@ -7,6 +7,7 @@ for item in column_list.col:
     print("Does the column " + item + " exists in the CSV file ? :- " + str(item in result_set.columns))
 
 '''
+Output:
 
 Does the column Series_reference exists in the CSV file ? :- True
 Does the column Period exists in the CSV file ? :- True
