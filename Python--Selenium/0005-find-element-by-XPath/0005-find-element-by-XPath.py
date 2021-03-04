@@ -13,8 +13,8 @@ driver = webdriver.Chrome(PATH)
 driver.maximize_window()
 # Navigate to the following url
 driver.get("https://www.att.com/")
-# Lookup element by id
-search = driver.find_element_by_id("z1-profile-text")
+# Lookup element by xpath
+search = driver.find_element_by_xpath('//*[@id="z1-profile-text"]')
 # Once found, click on the link
 search.click()
 print("clicked on Account resulting in a dropdown list")
