@@ -1,4 +1,0 @@
-C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--Selenium/0004-Page-Navigation-by-ID/0004-Page-Navigation-by-ID.py
-clicked on Account resulting in a dropdown list
-
-Process finished with exit code 0

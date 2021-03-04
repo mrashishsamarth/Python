@@ -1,4 +1,0 @@
-C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--Selenium/0002-Open-Url-Get-Title/0002-Open-Url-Get-Title.py
-AT&T Official Site - Unlimited Data Plans, Internet Service, & TV
-
-Process finished with exit code 0
