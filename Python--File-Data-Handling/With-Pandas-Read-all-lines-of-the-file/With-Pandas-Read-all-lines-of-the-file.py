@@ -4,9 +4,6 @@ print(result_set)
 
 
 '''
-Output:
-
-C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--File-Data-Handling/With-Pandas-Read-all-lines-of-the-file/WithPandasReadAllLinesOfTheFile.py
    Series_reference   Period  ...  Series_title_4  Series_title_5
 0       BDCQ.SEA1AA  2011.06  ...             NaN             NaN
 1       BDCQ.SEA1AA  2020.09  ...             NaN             NaN
@@ -49,7 +46,5 @@ C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/
 [37 rows x 14 columns]
 
 Process finished with exit code 0
-
-
 
 '''
