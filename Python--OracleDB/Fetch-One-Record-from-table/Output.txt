@@ -1,0 +1,4 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--OracleDB/Fetch-One-Record-from-table/Fetch-One-Record-from-table.py
+(7, 'SYS', 'KUPCC', 'PACKAGE', 0)
+
+Process finished with exit code 0

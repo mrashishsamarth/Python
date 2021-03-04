@@ -1,0 +1,4 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--File-Data-Handling/Flat-File-Validation-EDW-#-of-Lines/Flat-File-Validation-EDW-#-of-Lines.py
+The file has 12 line(s), apart from the header
+
+Process finished with exit code 0

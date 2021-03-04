@@ -1,0 +1,17 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--OracleDB/Fetch-All-Records-Tabular-Printing/Fetch-All-Records-Tabular-Printing.py
++-------+---------+----------+---------+----------+
+|   SID | OWNER   | OBJECT   | TYPE    |   CON_ID |
+|-------+---------+----------+---------+----------|
+|     7 | SYS     | DUAL     | TABLE   |        0 |
+|     7 | SYS     | OBJ$     | TABLE   |        0 |
+|     7 | SYS     | KUPCC    | PACKAGE |        0 |
+|     7 | SYS     | TYPE$    | TABLE   |        0 |
+|     7 | SYS     | UNDO$    | TABLE   |        0 |
+|     7 | SYS     | USER$    | TABLE   |        0 |
+|     7 | SYS     | CPOOL$   | TABLE   |        0 |
+|     7 | SYS     | KOTAD$   | TABLE   |        0 |
+|     7 | SYS     | KOTMD$   | TABLE   |        0 |
+|     7 | SYS     | KOTTB$   | TABLE   |        0 |
++-------+---------+----------+---------+----------+
+
+Process finished with exit code 0

@@ -1,0 +1,7 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--MongoDB/Print-Specific-Key-Value-Pair/Print-Specific-Key-Value-Pair.py
+'aircraft is :- Airbus A380'
+
+'aircraft is :- Airbus A320'
+
+
+Process finished with exit code 0

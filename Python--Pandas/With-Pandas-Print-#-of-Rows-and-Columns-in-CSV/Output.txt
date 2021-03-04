@@ -1,0 +1,5 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--Pandas/With-Pandas-Print-#-of-Rows-and-Columns-in-CSV/With-Pandas-Print-#-of-Rows-and-Columns-in-CSV.py
+Number of Rows in this csv file is :- 37
+Number of Columns in this csv file is :- 14
+
+Process finished with exit code 0

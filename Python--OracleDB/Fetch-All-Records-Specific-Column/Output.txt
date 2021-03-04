@@ -1,0 +1,17 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--OracleDB/Fetch-All-Records-Specific-Column/Fetch-All-Records-Specific-Column.py
++-------+
+|   SID |
+|-------|
+|     7 |
+|     7 |
+|     7 |
+|     7 |
+|     7 |
+|     7 |
+|     7 |
+|     7 |
+|     7 |
+|     7 |
++-------+
+
+Process finished with exit code 0

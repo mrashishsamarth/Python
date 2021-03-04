@@ -1,0 +1,15 @@
+Microsoft Windows [Version 10.0.18363.1379]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Groot\IdeaProjects\Python\Python--PYTEST\pytest-check-filesize-columnCount-rowCount-columnName>pytest
+================================================================================= test session starts ==================================================================================
+platform win32 -- Python 3.9.2, pytest-6.2.2, py-1.10.0, pluggy-0.13.1
+rootdir: C:\Users\Groot\IdeaProjects\Python\Python--PYTEST\pytest-check-filesize-columnCount-rowCount-columnName
+collected 4 items
+
+test_check-filesize-columnCount-rowCount-columnName.py ....                                                                                                                       [100%]
+
+================================================================================== 4 passed in 0.64s ===================================================================================
+
+C:\Users\Groot\IdeaProjects\Python\Python--PYTEST\pytest-check-filesize-columnCount-rowCount-columnName>
+

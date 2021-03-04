@@ -1,0 +1,8 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--Pandas/With-Pandas-File-Validation-if-Column-exists-config-approach/With-Pandas-File-Validation-if-Column-exists-config-approach.py
+Does the column Series_reference exists in the CSV file ? :- True
+Does the column Period exists in the CSV file ? :- True
+Does the column Data_value exists in the CSV file ? :- True
+Does the column STATUS exists in the CSV file ? :- True
+Does the column TESTING_CLOUMN exists in the CSV file ? :- False
+
+Process finished with exit code 0

@@ -1,0 +1,4 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--OracleDB/Get-Oracle-DB-version/Get-Oracle-DB-version.py
+Python is connected to Oracle Version of 19.3.0.0.0
+
+Process finished with exit code 0

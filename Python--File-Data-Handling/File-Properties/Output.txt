@@ -1,0 +1,6 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python/Python--File-Data-Handling/File-Properties/File-Properties.py
+The size of the file (in bytes) is : - 994
+The file was created at : - Wed Mar  3 13:53:14 2021
+The file was modified at : - Wed Mar  3 13:54:09 2021
+
+Process finished with exit code 0
