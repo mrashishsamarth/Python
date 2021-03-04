@@ -1,0 +1,4 @@
+C:\Users\Groot\AppData\Local\Programs\Python\Python39\python.exe C:/Users/Groot/IdeaProjects/Python-Playground/0005-find-element-by-XPath/0005-find-element-by-XPath.py
+clicked on Account resulting in a dropdown list
+
+Process finished with exit code 0
