@@ -43,12 +43,22 @@
 from
     EMPLOYEES e;]]></console>
     </connection>
+    <connection id="6337b82d-57a7-4a8e-8571-99f3a3e60b98">
+      <console name="Oracle19c - SYSTEM" type="STANDARD" schema="SYSTEM" session="Main"><![CDATA[CREATE USER APEX_LISTENER IDENTIFIED BY Black0ps ACCOUNT UNLOCK;
+
+CREATE USER APEX_PUBLIC_USER IDENTIFIED BY Black0ps ACCOUNT UNLOCK;
+
+CREATE USER APEX_REST_PUBLIC_USER IDENTIFIED BY Black0ps ACCOUNT UNLOCK;
+
+CREATE USER ORDS_PUBLIC_USER IDENTIFIED BY Black0ps ACCOUNT UNLOCK;]]></console>
+    </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="6eab6e9c-6626-4767-afd6-c09d627ebf63" />
+    <connection id="6337b82d-57a7-4a8e-8571-99f3a3e60b98" />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="6eab6e9c-6626-4767-afd6-c09d627ebf63" dataset="HR.DEPARTMENTS" active-filter-id="" />
@@ -119,6 +129,90 @@ from
           <ddl-file-binding value="true" />
           <database-logging value="false" />
           <connect-automatically value="false" />
+          <restore-workspace value="true" />
+          <restore-workspace-deep value="true" />
+          <environment-type value="default" />
+          <connectivity-timeout value="5" />
+          <idle-time-to-disconnect value="30" />
+          <idle-time-to-disconnect-pool value="5" />
+          <credential-expiry-time value="10" />
+          <max-connection-pool-size value="7" />
+          <alternative-statement-delimiter value="" />
+        </details>
+        <object-filters hide-empty-schemas="false" hide-pseudo-columns="false">
+          <object-type-filter use-master-settings="true">
+            <object-type name="SCHEMA" enabled="true" />
+            <object-type name="USER" enabled="true" />
+            <object-type name="ROLE" enabled="true" />
+            <object-type name="PRIVILEGE" enabled="true" />
+            <object-type name="CHARSET" enabled="true" />
+            <object-type name="TABLE" enabled="true" />
+            <object-type name="VIEW" enabled="true" />
+            <object-type name="MATERIALIZED_VIEW" enabled="true" />
+            <object-type name="NESTED_TABLE" enabled="true" />
+            <object-type name="COLUMN" enabled="true" />
+            <object-type name="INDEX" enabled="true" />
+            <object-type name="CONSTRAINT" enabled="true" />
+            <object-type name="DATASET_TRIGGER" enabled="true" />
+            <object-type name="DATABASE_TRIGGER" enabled="true" />
+            <object-type name="SYNONYM" enabled="true" />
+            <object-type name="SEQUENCE" enabled="true" />
+            <object-type name="PROCEDURE" enabled="true" />
+            <object-type name="FUNCTION" enabled="true" />
+            <object-type name="PACKAGE" enabled="true" />
+            <object-type name="TYPE" enabled="true" />
+            <object-type name="TYPE_ATTRIBUTE" enabled="true" />
+            <object-type name="ARGUMENT" enabled="true" />
+            <object-type name="DIMENSION" enabled="true" />
+            <object-type name="CLUSTER" enabled="true" />
+            <object-type name="DBLINK" enabled="true" />
+          </object-type-filter>
+          <object-name-filters />
+        </object-filters>
+      </connection>
+      <connection id="6337b82d-57a7-4a8e-8571-99f3a3e60b98" active="true">
+        <database>
+          <name value="Oracle19c - SYSTEM" />
+          <description value="" />
+          <database-type value="ORACLE" />
+          <config-type value="BASIC" />
+          <database-version value="19.0" />
+          <driver-source value="BUILTIN" />
+          <driver-library value="" />
+          <driver value="" />
+          <url-type value="SID" />
+          <host value="localhost" />
+          <port value="1521" />
+          <database value="ORCL" />
+          <type value="USER_PASSWORD" />
+          <user value="SYSTEM" />
+          <deprecated-pwd value="QmxhY2swcHM=" />
+        </database>
+        <properties>
+          <auto-commit value="false" />
+        </properties>
+        <ssh-settings>
+          <active value="false" />
+          <proxy-host value="" />
+          <proxy-port value="22" />
+          <proxy-user value="" />
+          <deprecated-proxy-pwd value="" />
+          <auth-type value="PASSWORD" />
+          <key-file value="" />
+          <key-passphrase value="" />
+        </ssh-settings>
+        <ssl-settings>
+          <active value="false" />
+          <certificate-authority-file value="" />
+          <client-certificate-file value="" />
+          <client-key-file value="" />
+        </ssl-settings>
+        <details>
+          <charset value="UTF-8" />
+          <session-management value="true" />
+          <ddl-file-binding value="true" />
+          <database-logging value="false" />
+          <connect-automatically value="true" />
           <restore-workspace value="true" />
           <restore-workspace-deep value="true" />
           <environment-type value="default" />
