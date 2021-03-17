@@ -50,7 +50,10 @@ CREATE USER APEX_PUBLIC_USER IDENTIFIED BY Black0ps ACCOUNT UNLOCK;
 
 CREATE USER APEX_REST_PUBLIC_USER IDENTIFIED BY Black0ps ACCOUNT UNLOCK;
 
-CREATE USER ORDS_PUBLIC_USER IDENTIFIED BY Black0ps ACCOUNT UNLOCK;]]></console>
+CREATE USER ORDS_PUBLIC_USER IDENTIFIED BY Black0ps ACCOUNT UNLOCK;
+
+
+SELECT UTL_INADDR.get_host_name,UTL_INADDR.get_host_address('127.0.0.1') FROM dual;]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
